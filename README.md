@@ -5,8 +5,6 @@
 ![Gmail](https://img.shields.io/badge/Notifications-Gmail-EA4335?style=for-the-badge&logo=gmail)
 ![Architecture](https://img.shields.io/badge/Architecture-Event_Driven-brightgreen?style=for-the-badge)
 
-<img src="assets/profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
-
 ## 📌 Overview
 This project is an automated, event-driven Paid Time Off (PTO) management system. It acts as a lightweight ETL pipeline that extracts form submission data, transforms it via database rollups and conditional logic, and loads notifications to end-users via automated webhooks. 
 
