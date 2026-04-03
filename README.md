@@ -10,7 +10,7 @@ This project is an automated, event-driven Paid Time Off (PTO) management system
 
 The goal of this architecture is to streamline the submission, approval, and tracking of leave requests while maintaining strict referential integrity between employee records and transaction logs.
 
-🔗 **[Watch the End-to-End Demo Video Here](assets/Automated PTO.mp4)**
+🔗 **![Watch the End-to-End Demo Video Here](assets/Automated PTO.mp4)**
 
 ---
 
